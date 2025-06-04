@@ -264,7 +264,3 @@ This project is for educational and research purposes. Please respect the terms 
 - 📈 [Yahoo Finance API](https://pypi.org/project/yfinance/)
 - 🐍 [Python Official](https://www.python.org/)
 - 🔬 [PyTorch](https://pytorch.org/)
-
----
-
-**Happy Analyzing! 📈🤖** 
